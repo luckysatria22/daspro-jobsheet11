@@ -12,3 +12,20 @@ Ya, dalam kasus array penonton ini, penonton[0].length, penonton[1].length, peno
 6. Done.
 7. Done.
 8. Done.
+9. Done.
+10. Menurut Anda, apa kekurangan dan kelebihan foreach loop dibandingkan dengan for loop?
+Kelebihan foreach:
+Sintaks lebih sederhana dan mudah dibaca
+Tidak perlu mengelola indeks secara manual
+Mengurangi risiko error seperti ArrayIndexOutOfBoundsException
+Cocok untuk iterasi seluruh elemen array
+Kekurangan foreach:
+Tidak bisa mengakses indeks elemen secara langsung
+Tidak bisa memodifikasi elemen array (hanya membaca)
+Tidak fleksibel untuk iterasi dengan kondisi khusus
+Tidak bisa iterasi mundur atau melompati elemen tertentu
+11. Berapa indeks baris maksimal untuk array penonton?
+Indeks baris maksimal = 3 (karena array memiliki 4 baris dengan indeks 0, 1, 2, 3)
+12. Berapa indeks kolom maksimal untuk array penonton?
+Indeks kolom maksimal = 1 (karena array memiliki 2 kolom dengan indeks 0, 1)
+13. String.join() adalah method untuk menggabungkan beberapa string menjadi satu string dengan pemisah (delimiter) tertentu. 
