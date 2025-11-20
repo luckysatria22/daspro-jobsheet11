@@ -8,3 +8,6 @@ Nilai null muncul karena elemen array tersebut belum diinisialisasi atau diisi d
 penonton.length = mengembalikan jumlah baris dalam array 2 dimensi (dalam kasus ini = 4).
 penonton[0].length = mengembalikan jumlah kolom pada baris ke-0 (dalam kasus ini = 2).
 Ya, dalam kasus array penonton ini, penonton[0].length, penonton[1].length, penonton[2].length, dan penonton[3].length memiliki nilai yang sama yaitu 2, karena setiap baris memiliki jumlah kolom yang sama (2 kolom). Namun, Java mendukung jagged array di mana setiap baris bisa memiliki jumlah kolom yang berbeda.
+5. Done.
+6. Done.
+7. Done.
