@@ -11,3 +11,4 @@ Ya, dalam kasus array penonton ini, penonton[0].length, penonton[1].length, peno
 5. Done.
 6. Done.
 7. Done.
+8. Done.
